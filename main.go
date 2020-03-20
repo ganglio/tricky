@@ -80,6 +80,7 @@ func main() {
 		page().(*template.Template).Execute(w, data)
 	})
 
-	log.Println("Listening on port :3000")
-	log.Fatal(http.ListenAndServe(":3000", nil))
+	port := os.Getenv("PORT")
+	log.Printf("Listening on port %s", port)
+	log.Fatal(http.ListenAndServe(port, nil))
 }
