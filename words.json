@@ -1,54 +1,62 @@
 {
-  "red": [
-    "I",
-    "the",
-    "he",
-    "she",
-    "me",
-    "we",
-    "be",
-    "was"
+  "classes": [
+    "red",
+    "yellow",
+    "blue",
+    "green"
   ],
-  "yellow": [
-    "are",
-    "all",
-    "you",
-    "your",
-    "come",
-    "some",
-    "said",
-    "here"
-  ],
-  "green": [
-    "go",
-    "no",
-    "so",
-    "my",
-    "one",
-    "by",
-    "only",
-    "old",
-    "like",
-    "have",
-    "live",
-    "give",
-    "little",
-    "down"
-  ],
-  "blue": [
-    "any",
-    "many",
-    "more",
-    "before",
-    "other",
-    "were",
-    "because",
-    "want",
-    "saw",
-    "put",
-    "could",
-    "should",
-    "would",
-    "right"
-  ]
+  "words": {
+    "red": [
+      "I",
+      "the",
+      "he",
+      "she",
+      "me",
+      "we",
+      "be",
+      "was"
+    ],
+    "yellow": [
+      "are",
+      "all",
+      "you",
+      "your",
+      "come",
+      "some",
+      "said",
+      "here"
+    ],
+    "green": [
+      "go",
+      "no",
+      "so",
+      "my",
+      "one",
+      "by",
+      "only",
+      "old",
+      "like",
+      "have",
+      "live",
+      "give",
+      "little",
+      "down"
+    ],
+    "blue": [
+      "any",
+      "many",
+      "more",
+      "before",
+      "other",
+      "were",
+      "because",
+      "want",
+      "saw",
+      "put",
+      "could",
+      "should",
+      "would",
+      "right"
+    ]
+  }
 }
